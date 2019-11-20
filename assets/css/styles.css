@@ -24,6 +24,10 @@ h6 {
   border-radius: 50%;
 }
 
+.section-inner{
+  border-radius: 10px;
+}
+
 
 a {
   color: #3AAA64;
