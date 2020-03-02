@@ -1,3 +1,7 @@
+$(window).on("load",function(){
+    $(".loader-wrapper").fadeOut("slow");
+});
+
 jQuery(document).ready(function($) {
 
 
@@ -63,3 +67,4 @@ jQuery(document).ready(function($) {
 
 
 });
+
